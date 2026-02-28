@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "この旋律よ 誰かの歌になれ",
+  "base_artist": "WEST.",
+  "createdAt": "2026-02-28T14:06:31.478854Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この旋律よ 誰かの歌になれ",
+      "artist": "WEST.",
+      "has_synced": false,
+      "path": "select/pl_01_この旋律よ_誰かの歌になれ_WEST..txt"
+    }
+  ]
+}
